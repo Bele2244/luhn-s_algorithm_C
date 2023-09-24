@@ -28,3 +28,4 @@ Mastercard
 
 ## Contributing
 Pull requests are wellcome!  
+Based on CS50 Intro to CS.
